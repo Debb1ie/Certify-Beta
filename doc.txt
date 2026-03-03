@@ -1,0 +1,40 @@
+# CertifyCS
+
+A certification platform for CS and IT students — 1st year to 4th year.
+
+## What it does
+
+Students follow a structured course roadmap aligned with their university curriculum, earn verifiable certificates, and share them with employers through a built-in verification system.
+
+## Pages
+
+- **Home** — Overview, stats, featured courses, testimonials
+- **Courses** — 16 courses filterable by year, track, and search
+- **Certifications** — 8 certificates with requirements and progress tracking
+- **Employers** — Certificate verifier and partner company directory
+- **Roadmap** — 4-year learning path for CS and IT
+- **About** — Mission and platform background
+
+## Stack
+
+- React 18 — single file (`App.jsx`)
+- No external UI libraries
+- IntersectionObserver for scroll animations
+
+## Run it
+
+```bash
+npm install
+npm run dev
+```
+
+## Demo cert codes
+
+| Code | Name |
+|---|---|
+| `cert-2024-dsa` | Juan Dela Cruz — Certified DSA Specialist |
+| `cert-2024-web` | Maria Santos — Certified Web Foundations |
+
+---
+
+MIT License
